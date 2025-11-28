@@ -1,0 +1,1 @@
+This MATLAB script, titled "Frequency-Domain Filtering with fft2," demonstrates how to perform image filtering using the 2D Discrete Fourier Transform (DFT), leveraging the Convolution Theorem. The lab contrasts the effects of ideal vs. smooth low-pass filters and explores high-pass filtering.
